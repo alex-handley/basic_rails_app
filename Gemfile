@@ -20,5 +20,6 @@ group :development, :test do
   gem "schoolmaster", "~> 0.0.2"
 
   gem "rspec-rails", "~> 3.2.1"
+  gem "database_cleaner", "~> 1.4.1"
 end
 
