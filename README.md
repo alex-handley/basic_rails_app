@@ -12,3 +12,10 @@ Setup
 -----
 
 - copy config/database.yml.example to config/database.yml
+
+Code Checks
+------------
+
+Run the following command to check: tests, code style, security issues and probably some other stuff which is important.
+
+    $ schoolmaster
